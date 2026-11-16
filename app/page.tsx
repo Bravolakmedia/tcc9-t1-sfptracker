@@ -10,7 +10,7 @@ export default function Home() {
         <WalletConnect />
       </div>
       <main className="p-10 bg-blue-500 text-white text-2xl">
-      Web3 Capstone Template Working 
+      Welcome to School Fees Payment Tracker
     </main>
     </>
     
